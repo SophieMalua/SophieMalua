@@ -1,8 +1,8 @@
-- 👋 Hi, I’m SophieMalua
-- 👀 I’m interested in learning how to bulid a code for a Translater with C#
+- 👋 Hi, I’m Depepression
+- 👀 I’m really depressed
 - 🌱 I’m currently learning how to do that
-- 💞️ I’m looking to collaborate on nothing at the moment just doing that
-- 📫 How to reach me ac107338@avcol.school.nz
+- 💞️ I’m looking to be even more sad
+- 📫 How to reach me @sadlife.com
 
 <!---
 SophieMalua/SophieMalua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
